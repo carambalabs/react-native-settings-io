@@ -1,5 +1,18 @@
 {
   "name": "SettingsiOS",
   "version": "0.0.1",
-  "keywords": "react-native"
+  "description": "Build a native iOS settings view for your React Native application",
+  "main": "./js/SettingsiOS.ios.js",
+  "author": {
+    "name": "Pedro Piñera"
+  },
+  "homepage": "https://github.com/carambalabs/react-native-settings-ios",
+  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "react",
+    "settings",
+    "ios",
+    "core"
+  ]
 }
